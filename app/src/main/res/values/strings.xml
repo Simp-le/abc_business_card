@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Business Card</string>
+    <string name="name">Ivanov Denis</string>
+    <string name="title">Android Developer</string>
+    <string name="phone_number">+77777777777</string>
+    <string name="social_media">Simp-le</string>
+    <string name="email">thatsme@gmail.com</string>
+</resources>
